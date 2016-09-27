@@ -5,8 +5,10 @@ File / Code
 
 |No | Name  | Comment  | 
 |---|---|---|
-|  1 |   |   |
-|  2 |   |   |
+|  1 |   apModeToStationMode.sh|  AP Mode To Station Mode |
+|  2 |   stationModeToApMode.sh|  Station Mode To AP Mode |
+|  3 |   lks7688 v0.9.1.img|  Linkit Smart 7668 v0.9.1 Firmware |
+|  4 |   lks7688 v0.9.3.img|  Linkit Smart 7668 v0.9.3 Firmware |
 
 
 License
