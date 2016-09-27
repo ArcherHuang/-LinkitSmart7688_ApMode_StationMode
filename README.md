@@ -1,4 +1,4 @@
-# LinkitSmart7688 ApMode <-> StationMode
+# Linkit Smart 7688 ApMode <-> StationMode
 
 File / Code
 ==============
